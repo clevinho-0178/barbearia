@@ -3,7 +3,7 @@ body {
 }
 
 #banner {
-    
+
 }
 
 h1 {
@@ -21,4 +21,12 @@ em strong {
 
     #missao {
         font-size: 20px;
-    }
+        }
+
+        em strong {
+            color: #FF0000;
+        }
+
+        .itens[
+        font-style: intalic;
+        ]
